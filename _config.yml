@@ -1,5 +1,11 @@
 title: Kamila Kussainova
 logo: /assets/img/headshot.jpg
-description: Graduate Data Science Student
-show_downloads: true
+description: Graduate Data Science Student | Data Analysis | Machine Learning
+show_downloads: false
 theme: jekyll-theme-minimal
+
+# New fields for contact
+email: kamilakuss.kkm@gmail.com
+phone: 302-344-9149
+github: https://github.com/kamilakuss
+linkedin: https://www.linkedin.com/in/kamila-kussainova
