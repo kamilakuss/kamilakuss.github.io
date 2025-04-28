@@ -1,73 +1,98 @@
 # Data Enthusiast
 
-# Kamila Kussainova
+**Graduate Data Science Student | Data Enthusiast | Visual Storyteller**  
+Turning messy data into beautiful, actionable stories.
 
-📞 302-344-9149 | 📧 [kamilakuss.kkm@gmail.com](mailto:kamilakuss.kkm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kamila-kussainova) | [GitHub](https://github.com/kamilakuss)
-
----
-
-## Education
-
-- **University of Colorado Boulder** — *Master of Science in Data Science*  
-  *Jan 2024 – Dec 2025*
-
-- **Nazarbayev University** — *Bachelor of Arts in Economics, Minor in Linguistics*  
-  *Aug 2018 – May 2022*
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)
 
 ---
 
-## Experience
+## 🚀 About Me
 
-**Data Science Volunteer**  
-Catchafire *(Remote, 2024 - Present)*  
-- Developed and implemented data collection plans, surveys, and reports for multiple organizations.
-- Built interactive dashboards to visualize KPIs and enhance organizational impact.
-- Conducted EDA to identify trends and provide actionable recommendations.
-
-**Assistant General Manager**  
-Jules Thin Crust *(Wayne, PA, 2023 - Present)*  
-- Analyzed POS data to identify high-value customer segments and tailor promotions.
-- Automated daily sales and inventory tracking with Excel and Python (reduced reporting time by 50%).
-- Led operational management, inventory, vendor coordination, and trained 17+ team members.
-- Maintained clear communication with customers and owners, resolving issues promptly.
-
-**Data Science Intern**  
-The Sparks Foundation *(Remote, 2024)*  
-- Built and visualized decision trees for classification problems.
-- Tuned hyperparameters to optimize model accuracy.
-- Documented and presented statistical findings for stakeholders.
+I specialize in extracting value from data across industries like finance, healthcare, insurance, and real estate.  
+When I'm not coding, you'll find me sketching, running, or experimenting with new visualization tools.
 
 ---
 
-## Projects
+## 🛠 Skills
 
-- **[Customer Segmentation Using PCA and Clustering](#)**  
-  *Python, pandas, Seaborn, scikit-learn*  
-  - Applied PCA and clustering to group clients based on behavior, defining risk profiles.
-  - Segmented policyholders for targeted insurance offerings.
-
-- **[Forecasting Supermarket Sales](#)**  
-  *Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn*  
-  - Integrated multivariate datasets to forecast financial exposure.
-  - Built regression models to support reserve allocation and loss forecasting.
+- 🐍 Python (pandas, NumPy, scikit-learn, matplotlib)
+- 🛢 SQL (PostgreSQL, MySQL)
+- 📊 Tableau, Power BI, Excel
+- 📚 Machine Learning, Forecasting, Optimization
+- 🏥 Healthcare Analytics, Financial Modeling, Risk Analysis
 
 ---
 
-## Skills
+## 🎓 Education
 
-**Analytical Skills:** Risk assessment, Financial reasoning, Data analysis, Statistical thinking, Machine learning, Pattern recognition  
-**Technical Proficiency:** Python (NumPy, pandas, Matplotlib, scikit-learn), SQL, Bash, Excel, Tableau, Power BI, Dashboard building  
-**Communication & Organization:** Business writing, Time management, Stakeholder interaction, Record keeping  
-**Professional Qualities:** Attention to detail, Critical thinking, Integrity, Adaptability, Team collaboration
+- **University of Colorado Boulder** — M.S. in Data Science (2024 – 2025)
+- **Nazarbayev University** — B.A. in Economics, Minor in Linguistics (2018 – 2022)
 
 ---
 
-## Portfolio Navigation
+## 🏢 Experience
 
-- [Experience](#experience)
-- [Projects](#projects)
-- [Skills](#skills)
+**Data Science Volunteer** @ Catchafire (2024 – Present)  
+**Assistant General Manager** @ Jules Thin Crust (2023 – Present)  
+**Data Science Intern** @ The Sparks Foundation (2024)
 
 ---
 
-© Kamila Kussainova
+## 🧠 Featured Projects
+
+### 💳 Banking & Finance
+**Credit Risk Assessment for Loan Applications**  
+🛠 *Python, XGBoost, SHAP*  
+- Built a risk prediction model for loan defaults using Lending Club data.
+
+[🔗 GitHub Repo](https://github.com/kamilakuss/loan-default-prediction) | [🌐 Live Demo](https://fake-demo-link.com/credit-risk)
+
+---
+
+### 🏥 Healthcare
+**Forecasting Hospital Bed Occupancy Rates**  
+🛠 *Python, Prophet*  
+- Predicted daily hospital bed needs to optimize resource planning.
+
+[🔗 GitHub Repo](https://github.com/kamilakuss/hospital-bed-forecast) | [🌐 Live Demo](https://fake-demo-link.com/hospital-beds)
+
+---
+
+### 🛡 Insurance
+**Claims Fraud Detection System**  
+🛠 *Python, LightGBM, Anomaly Detection*  
+- Built a fraud scoring system to flag suspicious insurance claims.
+
+[🔗 GitHub Repo](https://github.com/kamilakuss/insurance-fraud-detection) | [🌐 Live Demo](https://fake-demo-link.com/fraud-detection)
+
+---
+
+### 🏘 Real Estate
+**Real Estate Price Estimator and Investment Tool**  
+🛠 *Python, Tableau, Regression Modeling*  
+- Developed a pricing model for residential properties with investment recommendations.
+
+[🔗 GitHub Repo](https://github.com/kamilakuss/real-estate-pricing) | [🌐 Tableau Demo](https://fake-tableau-link.com/real-estate)
+
+---
+
+### 📊 Environmental Analytics
+**Air Quality Dashboard for Smart Cities**  
+🛠 *Tableau, Python (Data Cleaning)*  
+- Interactive dashboard monitoring PM2.5, NO2, and CO2 emissions across urban zones.
+
+[🔗 GitHub Repo](https://github.com/kamilakuss/air-quality-dashboard) | [🌐 Tableau Demo](https://fake-tableau-link.com/air-quality)
+
+---
+
+## 📫 Contact
+
+- 📧 [Email Me](mailto:kamilakuss.kkm@gmail.com)
+- 📞 302-344-9149
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamila-kussainova)
+- 💻 [GitHub](https://github.com/kamilakuss)
+
+---
+
+*Data connects industries, empowers decisions, and builds the future.* 🌟
