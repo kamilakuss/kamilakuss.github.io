@@ -1,5 +1,5 @@
 title: Kamila Kussainova
-#logo: /relativepath
-#description: text below image
+logo: /assets/img/headshot.img
+description: Graduate Data Science Student
 show_downloads: true
 theme: jekyll-theme-minimal
